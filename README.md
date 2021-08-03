@@ -1,2 +1,2 @@
-# easybanklandingpage
+
 EasyBank Landing Page
